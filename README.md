@@ -1,3 +1,3 @@
 # Belajar-Kolaborasi  
 *Pelajaran pertama*  
-*Pelajaran kedua*
+*Kolaborasi seru*
