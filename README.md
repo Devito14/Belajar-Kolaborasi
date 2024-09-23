@@ -1,3 +1,3 @@
-# Belajar-Kolaborasi
-*Pelajaran pertama*
+# Belajar-Kolaborasi  
+*Pelajaran pertama*  
 *Pelajaran kedua*
